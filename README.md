@@ -2,7 +2,7 @@
 
 A website where you can upload image and share the link with your friends. [devChallenges.io](https://devChallenges.io).
 
-![Screenshot](../assets/Image.png)
+![Screenshot](./src/assets/Image.png)
 
 ## 🌟 Features
 
